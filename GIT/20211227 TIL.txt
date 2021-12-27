@@ -9,3 +9,6 @@ git branch -M main
 git remote add origin "사용할 URL"
 git push -u origin main
 
+
+소스트리를 사용하여 
+스테이징 커밋 브랜치 머지 푸시 풀 등을 배움
