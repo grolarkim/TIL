@@ -1,0 +1,7 @@
+Pull request 깃헙 내에서 커밋을 반영
+commit
+amend 최근 커밋의 변경
+revert 커밋의 되돌리기
+reset 커밋의 되돌리기(데이터 날아감)
+stash 임시저장
+.gitignore 깃으로 저장 안할 것들
